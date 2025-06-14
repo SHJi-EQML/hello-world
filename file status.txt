@@ -1,0 +1,3 @@
+1. Working directory
+2. Index (staging area)
+3. Object Database
